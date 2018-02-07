@@ -1,0 +1,39 @@
+{
+  "name": "hexeract",
+  "version": "1.0.0",
+  "description": "Milti dementional tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-lenkevich/hexeract.git"
+  },
+  "keywords": [
+    "hexeract",
+    "miltitable",
+    "table",
+    "office"
+  ],
+  "author": "Oleksandr Linkevych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-lenkevich/hexeract/issues"
+  },
+  "homepage": "https://github.com/alex-lenkevich/hexeract#readme",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "material-ui": "0.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.39",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "8.0.0",
+    "browserify": "15.2.0"
+  }
+}
